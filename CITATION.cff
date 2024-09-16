@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+
+authors:
+  - family-names: Maurya, Liu, Boonrath, Botta, Chowdhury
+    given-names: Shubhrika, Feng, Achira, Eleonora M., Souma
+    
+title: Vision-Based Estimation to Support Learning of Tether-Net Maneuver to Capture Rotating Space Debris
+version: 1
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13766307
+date-released: 2024-09-15
