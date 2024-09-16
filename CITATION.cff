@@ -1,12 +1,29 @@
 cff-version: 1.2.0
-
+message: "Supplementary Material for ICRA 2025 submission"
+title: "Vision-Based Estimation to Support Learning of Tether-Net Maneuver to Capture Rotating Space Debris"
+version: "v1.0.0"
+doi: "10.5281/zenodo.13766307"  # Update with the actual DOI if available
 authors:
-  - family-names: Maurya, Liu, Boonrath, Botta, Chowdhury
-    given-names: Shubhrika, Feng, Achira, Eleonora M., Souma
-    
-title: Vision-Based Estimation to Support Learning of Tether-Net Maneuver to Capture Rotating Space Debris
-version: 1
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.13766307
-date-released: 2024-09-15
+  - family-names: "Maurya"
+    given-names: "Shubhrika"
+    affiliation: "University at Buffalo"
+  - family-names: "Liu"
+    given-names: "Feng"
+    affiliation: "University at Buffalo"
+    - family-names: "Boonrath"
+    given-names: "Achira"
+    affiliation: "University at Buffalo"
+    - family-names: "Maurya"
+    given-names: "Shubhrika"
+    affiliation: "University at Buffalo"
+  - family-names: "Botta"
+    given-names: "Eleonora M."
+    affiliation: "University at Buffalo"
+  - family-names: "Chowdhury"
+    given-names: "Souma"
+    affiliation: "University at Buffalo"
+date-released: "2023-09-15"
+url: "https://github.com/adamslab-ub/Tether_Net_Vision_based_Estimation_Aided_RL"  # Update with actual repo URL
+repository-code: "https://github.com/username/repo"
+
+
